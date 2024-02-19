@@ -42,7 +42,7 @@ For insert Your BTC Address Wallet in File `SoloMinerV2.py` in Line 27 Changed T
 
 # Changed this Address And Insert Your BTC Wallet
 
-address = '16p9y6EstGYcnofGNvUJMEGKiAWhAr1uR8' 
+address = 'bc1q2f5m64rt50wlhfp9qmrx80s7nr49gqhgceelgc' 
 
 ``` 
 
@@ -50,9 +50,9 @@ for more detail's and about withdraw request follow this issue : #[SOLO.CKPOOL](
 
 ----
 
-Programmer Telegram ID [@MrPyMmdrza](https://t.me/MrPyMmdrza)
+Programmer Telegram ID [@yaxxiiiz][(https://t.me/Yaxxibot)]
 
-Programmer Telegram Channel [@Cryptoixer](https://t.me/Cryptoixer)
+Programmer Telegram Channel [CINEMA COMPNY1🎥](https://t.me/cinemaacompay)
 
 > **Warning**
 > Unfortunately, due to the ignorance of some dear users, we were not informed that some profiteers and uncultured people are selling some of my scripts at a lower price. And the user does not receive anything after payment. Some of these ignorant people give malicious and viral files to users. From here, I declare that the only official source for selling my scripts is the [website](https://mmdrza.com) and [Telegram ID](https://t.me/MrPyMmdrza) or [Telegram Channel](https://t.me/Cryptoixer).
